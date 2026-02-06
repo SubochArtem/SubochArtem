@@ -1,16 +1,12 @@
-## Hi there 👋
 
-<!--
-**SubochArtem/SubochArtem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/SubochArtem">
+  <img
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SubochArtem&theme=dracula&show_icons=true&hide_border=true&count_private=true"
+    height="192px"/></a>
+  
+  <a href="https://github.com/NotiLo-A">
+  <img
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SubochArtem&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8" 
+    height="192px"/></a>
+</p>
